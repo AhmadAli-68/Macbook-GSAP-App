@@ -21,9 +21,6 @@
 }
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
   scrollbar-color: var(--color-dark-100) var(--color-black);
 }
 
